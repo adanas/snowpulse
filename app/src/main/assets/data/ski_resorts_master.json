@@ -1,0 +1,6281 @@
+[
+  {
+    "id": "ski_0422",
+    "name": "ASHIMOI KANKO高穂スキー場",
+    "kana": "",
+    "latitude": 43.82186,
+    "longitude": 141.96256,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0048",
+    "name": "Alps Resort",
+    "kana": "",
+    "latitude": 38.26506,
+    "longitude": 128.38273,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0420",
+    "name": "Asahi自然観スノーパーク",
+    "kana": "",
+    "latitude": 38.30574,
+    "longitude": 140.0548,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0344",
+    "name": "Beidahu Ski Resort",
+    "kana": "",
+    "latitude": 43.41256,
+    "longitude": 126.61786,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0283",
+    "name": "Geto Kogen",
+    "kana": "",
+    "latitude": 39.23837,
+    "longitude": 140.89665,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0480",
+    "name": "Hakuba Valley",
+    "kana": "",
+    "latitude": 36.67255,
+    "longitude": 137.84189,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0302",
+    "name": "Ohana Resort",
+    "kana": "",
+    "latitude": 35.53503,
+    "longitude": 136.08936,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0213",
+    "name": "X-JAM高井富士",
+    "kana": "",
+    "latitude": 36.79826,
+    "longitude": 138.41856,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0228",
+    "name": "あさひスキー場",
+    "kana": "",
+    "latitude": 44.12216,
+    "longitude": 142.59756,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0424",
+    "name": "あさひプライムスキー場",
+    "kana": "",
+    "latitude": 36.11742,
+    "longitude": 137.83053,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0025",
+    "name": "あだたら高原スキー場",
+    "kana": "",
+    "latitude": 37.62192,
+    "longitude": 140.31748,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.adatara-resort.com/ski/"
+  },
+  {
+    "id": "ski_0058",
+    "name": "あららぎスキー場",
+    "kana": "",
+    "latitude": 35.4031,
+    "longitude": 137.67187,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0423",
+    "name": "あわすのスキー場",
+    "kana": "",
+    "latitude": 36.57341,
+    "longitude": 137.44415,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0167",
+    "name": "いいづなリゾートスキー場",
+    "kana": "",
+    "latitude": 36.74127,
+    "longitude": 138.15941,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0457",
+    "name": "いぶきの里スキー場",
+    "kana": "",
+    "latitude": 35.16499,
+    "longitude": 133.40681,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0402",
+    "name": "えんがるロックバレースキー",
+    "kana": "",
+    "latitude": 44.01753,
+    "longitude": 143.49765,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0323",
+    "name": "おじろスキー場",
+    "kana": "",
+    "latitude": 35.45992,
+    "longitude": 134.51884,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0124",
+    "name": "かぐらエリア",
+    "kana": "",
+    "latitude": 36.87216,
+    "longitude": 138.73398,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0481",
+    "name": "かぐらスキー場",
+    "kana": "",
+    "latitude": 36.8695,
+    "longitude": 138.74264,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0095",
+    "name": "かたしな高原スキー場",
+    "kana": "",
+    "latitude": 36.81013,
+    "longitude": 139.22164,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0410",
+    "name": "かもい岳国際スキー場",
+    "kana": "",
+    "latitude": 43.52015,
+    "longitude": 142.00672,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0018",
+    "name": "こまどりスキー場",
+    "kana": "",
+    "latitude": 45.38761,
+    "longitude": 141.68806,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0275",
+    "name": "さかえ倶楽部スキー場",
+    "kana": "",
+    "latitude": 36.99993,
+    "longitude": 138.5599,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0235",
+    "name": "さっぽろばんけいスキー場",
+    "kana": "",
+    "latitude": 43.02731,
+    "longitude": 141.27752,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.bankei.co.jp/"
+  },
+  {
+    "id": "ski_0334",
+    "name": "しらおスキー場",
+    "kana": "",
+    "latitude": 35.89966,
+    "longitude": 136.93926,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0197",
+    "name": "そっち岳スキー場",
+    "kana": "",
+    "latitude": 43.53642,
+    "longitude": 141.79761,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0287",
+    "name": "たざわ湖スキー場",
+    "kana": "",
+    "latitude": 39.76238,
+    "longitude": 140.77116,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0152",
+    "name": "たんばらスキーバーク",
+    "kana": "",
+    "latitude": 36.78268,
+    "longitude": 139.07947,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0436",
+    "name": "だいせんホワイトリゾート",
+    "kana": "",
+    "latitude": 35.3975,
+    "longitude": 133.53942,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0430",
+    "name": "ちくさ高原スキー場",
+    "kana": "",
+    "latitude": 35.21743,
+    "longitude": 134.38629,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0099",
+    "name": "となみ夢の平スキー場",
+    "kana": "",
+    "latitude": 36.58413,
+    "longitude": 137.01895,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0205",
+    "name": "なかさと清津",
+    "kana": "",
+    "latitude": 37.01966,
+    "longitude": 138.73533,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0163",
+    "name": "ぬかびら源泉郷スキー場",
+    "kana": "",
+    "latitude": 43.35739,
+    "longitude": 143.18362,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.kamishihoro.jp/place/00000005"
+  },
+  {
+    "id": "ski_0299",
+    "name": "ばんしゅう戸倉スキー場",
+    "kana": "",
+    "latitude": 35.28526,
+    "longitude": 134.54108,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0257",
+    "name": "ひだ舟山スノーリゾートアルコピアスキー場くるみ",
+    "kana": "",
+    "latitude": 36.03274,
+    "longitude": 137.25434,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0196",
+    "name": "ひらや高原スキー場",
+    "kana": "",
+    "latitude": 35.30572,
+    "longitude": 137.62458,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://hiraya-kougen.com/"
+  },
+  {
+    "id": "ski_0271",
+    "name": "ひるがの高原スキー場",
+    "kana": "",
+    "latitude": 36.00575,
+    "longitude": 136.91438,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0365",
+    "name": "ひるぜんベアバレースキー場",
+    "kana": "",
+    "latitude": 35.25955,
+    "longitude": 133.59785,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://bear-ski.amebaownd.com/"
+  },
+  {
+    "id": "ski_0300",
+    "name": "びわ湖バレイ スキー場",
+    "kana": "",
+    "latitude": 35.21348,
+    "longitude": 135.88983,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0069",
+    "name": "ぴっぷスキー場",
+    "kana": "",
+    "latitude": 43.934,
+    "longitude": 142.50147,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0259",
+    "name": "ふじてんスノーリゾート",
+    "kana": "",
+    "latitude": 35.43696,
+    "longitude": 138.68862,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0375",
+    "name": "ふるさとの森スキー場",
+    "kana": "",
+    "latitude": 41.68206,
+    "longitude": 140.43015,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0428",
+    "name": "ぶどうスノーリゾート",
+    "kana": "",
+    "latitude": 38.39155,
+    "longitude": 139.54657,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0065",
+    "name": "ほうのき平スキー場",
+    "kana": "",
+    "latitude": 36.16994,
+    "longitude": 137.49149,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://hounoki-daira.com/"
+  },
+  {
+    "id": "ski_0023",
+    "name": "ほろたちスキー場",
+    "kana": "",
+    "latitude": 44.01495,
+    "longitude": 142.1356,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.dankejapan.co.jp/horotachi.html"
+  },
+  {
+    "id": "ski_0411",
+    "name": "まかど温泉スキー場",
+    "kana": "",
+    "latitude": 40.87128,
+    "longitude": 141.0631,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0123",
+    "name": "みつまたエリア",
+    "kana": "",
+    "latitude": 36.89254,
+    "longitude": 138.76351,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0074",
+    "name": "みやぎ蔵王えぼしリゾート",
+    "kana": "",
+    "latitude": 38.12415,
+    "longitude": 140.51451,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.eboshi.co.jp/"
+  },
+  {
+    "id": "ski_0075",
+    "name": "みやぎ蔵王スキー場 すみかわスノーパーク",
+    "kana": "",
+    "latitude": 38.13004,
+    "longitude": 140.48538,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.zao-sumikawa.jp/"
+  },
+  {
+    "id": "ski_0077",
+    "name": "みやぎ蔵王セントメリースキー場",
+    "kana": "",
+    "latitude": 38.21614,
+    "longitude": 140.51223,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://stmary-338.com/"
+  },
+  {
+    "id": "ski_0072",
+    "name": "みやぎ蔵王七ヶ宿スキー場",
+    "kana": "",
+    "latitude": 37.99637,
+    "longitude": 140.37377,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www015.upp.so-net.ne.jp/ski-ski/"
+  },
+  {
+    "id": "ski_0073",
+    "name": "みやぎ蔵王白石スキー場",
+    "kana": "",
+    "latitude": 38.06858,
+    "longitude": 140.50917,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.nposki.com/"
+  },
+  {
+    "id": "ski_0335",
+    "name": "めいほうスキー場",
+    "kana": "",
+    "latitude": 35.95117,
+    "longitude": 137.02967,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0081",
+    "name": "やくらいファミリースキー場",
+    "kana": "",
+    "latitude": 38.5755,
+    "longitude": 140.71469,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://yakurai-garden.com/ski/"
+  },
+  {
+    "id": "ski_0276",
+    "name": "やぶはら高原 スキー場",
+    "kana": "",
+    "latitude": 35.95775,
+    "longitude": 137.73188,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0267",
+    "name": "やわたハイランド１９１リゾート",
+    "kana": "",
+    "latitude": 34.6944,
+    "longitude": 132.15548,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0212",
+    "name": "よませ温泉スキー場",
+    "kana": "",
+    "latitude": 36.78909,
+    "longitude": 138.41122,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0116",
+    "name": "わかさ氷ノ山スキー場",
+    "kana": "",
+    "latitude": 35.34735,
+    "longitude": 134.49283,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0006",
+    "name": "アサヒテングストン",
+    "kana": "",
+    "latitude": 34.8131,
+    "longitude": 132.3649,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0245",
+    "name": "アップかんなべ",
+    "kana": "",
+    "latitude": 35.504,
+    "longitude": 134.67861,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0175",
+    "name": "アライスノーリゾート",
+    "kana": "",
+    "latitude": 36.98948,
+    "longitude": 138.15705,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0329",
+    "name": "イオックス・アローザ",
+    "kana": "",
+    "latitude": 36.51468,
+    "longitude": 136.81196,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0017",
+    "name": "ウィングヒルズ白鳥リゾート",
+    "kana": "",
+    "latitude": 35.97328,
+    "longitude": 136.81079,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0076",
+    "name": "ウォータージャンプ宮城",
+    "kana": "",
+    "latitude": 38.18336,
+    "longitude": 140.61902,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.wj-miyagi.net/"
+  },
+  {
+    "id": "ski_0110",
+    "name": "エコーバレー",
+    "kana": "",
+    "latitude": 36.11795,
+    "longitude": 138.2007,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.echovalley.co.jp/"
+  },
+  {
+    "id": "ski_0425",
+    "name": "エーデルワイススキーリゾート",
+    "kana": "",
+    "latitude": 36.91888,
+    "longitude": 139.75255,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0150",
+    "name": "オグナほたかスキー場",
+    "kana": "",
+    "latitude": 36.78177,
+    "longitude": 139.1656,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://ognahotaka.jp/"
+  },
+  {
+    "id": "ski_0082",
+    "name": "オニコウベスキー場",
+    "kana": "",
+    "latitude": 38.78161,
+    "longitude": 140.63488,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.onikoube.com/"
+  },
+  {
+    "id": "ski_0260",
+    "name": "カムイみさかスキー場",
+    "kana": "",
+    "latitude": 35.57939,
+    "longitude": 138.75425,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0070",
+    "name": "カムイスキーリンクス",
+    "kana": "",
+    "latitude": 43.7009,
+    "longitude": 142.19903,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0198",
+    "name": "ガーラ湯沢スノーリゾート",
+    "kana": "",
+    "latitude": 36.94976,
+    "longitude": 138.78441,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0114",
+    "name": "キャンモア・スキービレッジ",
+    "kana": "",
+    "latitude": 43.73093,
+    "longitude": 142.54078,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0434",
+    "name": "キューピットバレイスキー場",
+    "kana": "",
+    "latitude": 37.04487,
+    "longitude": 138.49157,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0237",
+    "name": "キロロリゾート",
+    "kana": "",
+    "latitude": 43.06308,
+    "longitude": 141.00787,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0408",
+    "name": "クラッセスノーパーク",
+    "kana": "",
+    "latitude": 42.97064,
+    "longitude": 141.52903,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0304",
+    "name": "グランスノー奥伊吹",
+    "kana": "",
+    "latitude": 35.51865,
+    "longitude": 136.39273,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0024",
+    "name": "グランディ羽鳥湖スキーリゾート",
+    "kana": "",
+    "latitude": 37.21308,
+    "longitude": 140.02192,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://hatoriko.com/index.html"
+  },
+  {
+    "id": "ski_0032",
+    "name": "グランデコスノーリゾート",
+    "kana": "",
+    "latitude": 37.70849,
+    "longitude": 140.12783,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.grandeco.com/hotel_resort/"
+  },
+  {
+    "id": "ski_0038",
+    "name": "グランドサンピア猪苗代リゾートスキー場",
+    "kana": "",
+    "latitude": 37.58553,
+    "longitude": 140.05884,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0445",
+    "name": "グリーンバレー神室スキー場",
+    "kana": "",
+    "latitude": 38.91994,
+    "longitude": 140.39421,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0398",
+    "name": "グリーンピア大沼",
+    "kana": "",
+    "latitude": 42.00824,
+    "longitude": 140.59796,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0462",
+    "name": "コンサドーレ仁木スキーパーク",
+    "kana": "",
+    "latitude": 43.1147,
+    "longitude": 140.73434,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://nikipark.jp/"
+  },
+  {
+    "id": "ski_0240",
+    "name": "サッポロテイネ",
+    "kana": "",
+    "latitude": 43.08655,
+    "longitude": 141.20419,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0008",
+    "name": "サンタプレゼントパーク",
+    "kana": "",
+    "latitude": 43.75845,
+    "longitude": 142.29921,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.asahikawasantapresentpark.com/"
+  },
+  {
+    "id": "ski_0098",
+    "name": "サンメドウズ清里スキー場",
+    "kana": "",
+    "latitude": 35.94946,
+    "longitude": 138.4092,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0242",
+    "name": "サンライバスキー場",
+    "kana": "",
+    "latitude": 42.52135,
+    "longitude": 141.09691,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0308",
+    "name": "シャトレーゼスキーバレー小海",
+    "kana": "",
+    "latitude": 36.05398,
+    "longitude": 138.40435,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0307",
+    "name": "シャトレーゼスキーバレー野辺山",
+    "kana": "",
+    "latitude": 35.92984,
+    "longitude": 138.50012,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0225",
+    "name": "シャトー塩沢スキー場",
+    "kana": "",
+    "latitude": 37.05354,
+    "longitude": 138.82862,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0051",
+    "name": "シャルマン火打",
+    "kana": "",
+    "latitude": 36.99825,
+    "longitude": 138.06939,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0460",
+    "name": "ジュネス栗駒スキー場",
+    "kana": "",
+    "latitude": 39.15824,
+    "longitude": 140.73229,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0208",
+    "name": "スカイバレイスキー場",
+    "kana": "",
+    "latitude": 35.39527,
+    "longitude": 134.56472,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0005",
+    "name": "スキーパーク寒曳",
+    "kana": "",
+    "latitude": 34.79621,
+    "longitude": 132.45843,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0033",
+    "name": "スキーリゾート天栄",
+    "kana": "",
+    "latitude": 37.26746,
+    "longitude": 139.97683,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0004",
+    "name": "スターシュプール飛騨流葉スキー場",
+    "kana": "",
+    "latitude": 36.31603,
+    "longitude": 137.23681,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0050",
+    "name": "スノークルーズオーンズ",
+    "kana": "",
+    "latitude": 43.14391,
+    "longitude": 141.12767,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": true
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0258",
+    "name": "スノーパーク イエティ",
+    "kana": "",
+    "latitude": 35.30112,
+    "longitude": 138.77218,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0153",
+    "name": "スノーパーク尾瀬戸倉",
+    "kana": "",
+    "latitude": 36.85198,
+    "longitude": 139.2446,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://ozetokura.co.jp/snowpark/"
+  },
+  {
+    "id": "ski_0214",
+    "name": "スノーリゾート ロマンスの神様",
+    "kana": "",
+    "latitude": 36.81717,
+    "longitude": 138.40418,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0079",
+    "name": "スプリングバレー泉高原スキー場",
+    "kana": "",
+    "latitude": 38.41843,
+    "longitude": 140.71756,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.springvalley.co.jp/"
+  },
+  {
+    "id": "ski_0217",
+    "name": "タングラムスキーサーカス",
+    "kana": "",
+    "latitude": 36.85026,
+    "longitude": 138.26394,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0407",
+    "name": "ダイナスティスキーリゾート",
+    "kana": "",
+    "latitude": 42.92864,
+    "longitude": 141.45256,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0438",
+    "name": "ダイナランドスキー場",
+    "kana": "",
+    "latitude": 35.99126,
+    "longitude": 136.86241,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0478",
+    "name": "チセヌプリスキー場",
+    "kana": "",
+    "latitude": 42.87396,
+    "longitude": 140.59314,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0156",
+    "name": "トマム スキー場",
+    "kana": "",
+    "latitude": 43.07013,
+    "longitude": 142.61826,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0201",
+    "name": "ナスパスキーガーデン",
+    "kana": "",
+    "latitude": 36.92451,
+    "longitude": 138.80501,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0479",
+    "name": "ニセコモイワスキー場",
+    "kana": "",
+    "latitude": 42.8554,
+    "longitude": 140.63269,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://niseko-moiwa.jp/"
+  },
+  {
+    "id": "ski_0482",
+    "name": "ニセコユナイテッド",
+    "kana": "",
+    "latitude": 42.86554,
+    "longitude": 140.67434,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.niseko.ne.jp/"
+  },
+  {
+    "id": "ski_0317",
+    "name": "ニノックススノーパーク",
+    "kana": "",
+    "latitude": 37.92327,
+    "longitude": 139.47943,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0155",
+    "name": "ニポタウン",
+    "kana": "",
+    "latitude": 43.06377,
+    "longitude": 142.63002,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.snowtomamu.jp/winter/ski/family/nipo_town.php"
+  },
+  {
+    "id": "ski_0377",
+    "name": "ニヤマ高原スキー場",
+    "kana": "",
+    "latitude": 41.93661,
+    "longitude": 140.62915,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0369",
+    "name": "ニューグリーンピア津南",
+    "kana": "にゅーぐりーんぴあつなん",
+    "latitude": 36.95265,
+    "longitude": 138.68827,
+    "elevation_top_m": 1006,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://new-greenpia.com/ski/"
+  },
+  {
+    "id": "ski_0055",
+    "name": "ノルン水上",
+    "kana": "",
+    "latitude": 36.74096,
+    "longitude": 138.93415,
+    "elevation_top_m": 1220,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.norn.co.jp/"
+  },
+  {
+    "id": "ski_0062",
+    "name": "ノーザンアークリゾート",
+    "kana": "",
+    "latitude": 43.87125,
+    "longitude": 143.91896,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.northernarcresort.co.jp/contents/golfski/ski.html"
+  },
+  {
+    "id": "ski_0207",
+    "name": "ハイパーボウル東鉢",
+    "kana": "",
+    "latitude": 35.38937,
+    "longitude": 134.56104,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0064",
+    "name": "ハチ北高原スキー場",
+    "kana": "",
+    "latitude": 35.4018,
+    "longitude": 134.54175,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0321",
+    "name": "ハチ高原スキー場",
+    "kana": "",
+    "latitude": 35.38938,
+    "longitude": 134.5307,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0456",
+    "name": "ハンターマウンテン塩原スキー場",
+    "kana": "",
+    "latitude": 36.93062,
+    "longitude": 139.76299,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0311",
+    "name": "パラダ",
+    "kana": "",
+    "latitude": 36.28623,
+    "longitude": 138.51382,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0263",
+    "name": "パルコール嬬恋リゾート スキー & ホテル",
+    "kana": "",
+    "latitude": 36.5567,
+    "longitude": 138.44773,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0020",
+    "name": "ピヤシリスキー場",
+    "kana": "",
+    "latitude": 44.40892,
+    "longitude": 142.51394,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": true
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0309",
+    "name": "ピラタス蓼科スノーリゾート",
+    "kana": "",
+    "latitude": 36.07383,
+    "longitude": 138.31202,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0059",
+    "name": "ピリカスキー場",
+    "kana": "",
+    "latitude": 42.46164,
+    "longitude": 140.2037,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0028",
+    "name": "ファミリースノーパーク ばんだい×2",
+    "kana": "",
+    "latitude": 37.59399,
+    "longitude": 140.11341,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.bandai-bandai.jp/"
+  },
+  {
+    "id": "ski_0030",
+    "name": "フェアリーランドかねやまスキー場",
+    "kana": "",
+    "latitude": 37.44256,
+    "longitude": 139.54231,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0016",
+    "name": "フッズスノーエリア",
+    "kana": "",
+    "latitude": 42.95028,
+    "longitude": 141.27732,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": true
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0109",
+    "name": "ブランシュたかやまスキー場",
+    "kana": "",
+    "latitude": 36.13684,
+    "longitude": 138.19826,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.blanche-ski.com/"
+  },
+  {
+    "id": "ski_0278",
+    "name": "ブルーリゾート乗鞍",
+    "kana": "",
+    "latitude": 36.11679,
+    "longitude": 137.60481,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0157",
+    "name": "プレジデントリゾート軽井沢　軽井沢スノーパーク",
+    "kana": "",
+    "latitude": 36.42107,
+    "longitude": 138.627,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.presidentresort.jp/snowpark/"
+  },
+  {
+    "id": "ski_0337",
+    "name": "ホワイトバレースキー場",
+    "kana": "",
+    "latitude": 36.79564,
+    "longitude": 138.96383,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0332",
+    "name": "ホワイトピアたかす",
+    "kana": "",
+    "latitude": 35.95158,
+    "longitude": 136.93936,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0151",
+    "name": "ホワイトワールド尾瀬岩鞍",
+    "kana": "",
+    "latitude": 36.82229,
+    "longitude": 139.20955,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.oze-iwakura.co.jp/ski/"
+  },
+  {
+    "id": "ski_0239",
+    "name": "マウントレースイスキー場",
+    "kana": "",
+    "latitude": 43.04634,
+    "longitude": 141.97957,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0322",
+    "name": "ミカタスノーパーク",
+    "kana": "",
+    "latitude": 35.4096,
+    "longitude": 134.53102,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0107",
+    "name": "ムイカスノーリゾート",
+    "kana": "",
+    "latitude": 37.07307,
+    "longitude": 138.83848,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0162",
+    "name": "メムロスキー場",
+    "kana": "",
+    "latitude": 42.83123,
+    "longitude": 142.98494,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0291",
+    "name": "モヤヒルズ",
+    "kana": "",
+    "latitude": 40.73291,
+    "longitude": 140.79588,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0256",
+    "name": "モンデウス飛騨位山スノーパーク",
+    "kana": "",
+    "latitude": 36.05941,
+    "longitude": 137.22148,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0314",
+    "name": "ヤマボクワイルドスノーパーク",
+    "kana": "",
+    "latitude": 36.67271,
+    "longitude": 138.46426,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0269",
+    "name": "ユートピアサイオト",
+    "kana": "",
+    "latitude": 34.78156,
+    "longitude": 132.32354,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0040",
+    "name": "リステルスキーファンタジア",
+    "kana": "",
+    "latitude": 37.54636,
+    "longitude": 140.15305,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.listel-inawashiro.jp/ski/top/"
+  },
+  {
+    "id": "ski_0238",
+    "name": "ルスツリゾートスキー場",
+    "kana": "",
+    "latitude": 42.7311,
+    "longitude": 140.9152,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://rusutsu.com/"
+  },
+  {
+    "id": "ski_0200",
+    "name": "一本杉スキー場",
+    "kana": "",
+    "latitude": 36.93543,
+    "longitude": 138.80555,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0247",
+    "name": "万峰通化滑雪度假区",
+    "kana": "",
+    "latitude": 41.64813,
+    "longitude": 125.95389,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0251",
+    "name": "万座温泉スキー場",
+    "kana": "",
+    "latitude": 36.64008,
+    "longitude": 138.50185,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0034",
+    "name": "三島町営スキー場",
+    "kana": "",
+    "latitude": 37.46281,
+    "longitude": 139.63665,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0316",
+    "name": "三川温泉スキー場",
+    "kana": "",
+    "latitude": 37.71782,
+    "longitude": 139.39565,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0049",
+    "name": "上ノ国町営湯ノ岱スキー場",
+    "kana": "",
+    "latitude": 41.74967,
+    "longitude": 140.25325,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0204",
+    "name": "上越国際",
+    "kana": "",
+    "latitude": 37.0311,
+    "longitude": 138.79516,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0080",
+    "name": "上野々スキー場",
+    "kana": "",
+    "latitude": 38.7337,
+    "longitude": 140.7138,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.city.osaki.miyagi.jp/"
+  },
+  {
+    "id": "ski_0379",
+    "name": "东北亚滑雪场",
+    "kana": "",
+    "latitude": 42.03871,
+    "longitude": 123.72078,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0433",
+    "name": "中央道　伊那スキーリゾート",
+    "kana": "",
+    "latitude": 35.81553,
+    "longitude": 137.91067,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0121",
+    "name": "中里スノーウッドスキー場",
+    "kana": "",
+    "latitude": 36.90408,
+    "longitude": 138.85348,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0019",
+    "name": "中頓別町寿スキー場",
+    "kana": "",
+    "latitude": 44.99257,
+    "longitude": 142.28412,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0154",
+    "name": "丸沼高原スキー場",
+    "kana": "",
+    "latitude": 36.81151,
+    "longitude": 139.34221,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.marunuma.jp/winter/"
+  },
+  {
+    "id": "ski_0274",
+    "name": "久万スキーランド",
+    "kana": "",
+    "latitude": 33.72,
+    "longitude": 132.87704,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0243",
+    "name": "九重森林公園スキー場",
+    "kana": "",
+    "latitude": 33.09779,
+    "longitude": 131.18382,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0272",
+    "name": "九頭竜スキー場",
+    "kana": "",
+    "latitude": 35.89531,
+    "longitude": 136.65722,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0031",
+    "name": "二本松塩沢スキー場",
+    "kana": "",
+    "latitude": 37.63835,
+    "longitude": 140.32965,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.tohoku-safaripark.co.jp/ski/"
+  },
+  {
+    "id": "ski_0361",
+    "name": "云山滑雪场",
+    "kana": "",
+    "latitude": 41.06046,
+    "longitude": 124.14076,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0443",
+    "name": "五ヶ瀬ハイランドスキー場",
+    "kana": "",
+    "latitude": 32.58314,
+    "longitude": 131.11192,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0393",
+    "name": "五家山滑雪场",
+    "kana": "",
+    "latitude": 43.75124,
+    "longitude": 126.71551,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0224",
+    "name": "五日町スキー場",
+    "kana": "",
+    "latitude": 37.12357,
+    "longitude": 138.8902,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0292",
+    "name": "井川スキー場",
+    "kana": "",
+    "latitude": 33.96234,
+    "longitude": 133.88557,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0350",
+    "name": "亚布力新体委滑雪场（仅限训练队）",
+    "kana": "",
+    "latitude": 44.75194,
+    "longitude": 128.43607,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0372",
+    "name": "亚布力新体委滑雪场（对外营业）",
+    "kana": "",
+    "latitude": 44.7642,
+    "longitude": 128.45046,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0371",
+    "name": "亚布力阳光滑雪度假区",
+    "kana": "",
+    "latitude": 44.77412,
+    "longitude": 128.43599,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0303",
+    "name": "今庄365スキー場",
+    "kana": "",
+    "latitude": 35.72171,
+    "longitude": 136.14218,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0011",
+    "name": "伊ノ沢市民スキー場",
+    "kana": "",
+    "latitude": 43.74752,
+    "longitude": 142.33143,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0174",
+    "name": "休暇村妙高 ルンルンスキー場",
+    "kana": "",
+    "latitude": 36.91041,
+    "longitude": 138.16995,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0041",
+    "name": "会津高原 高畑スキー場",
+    "kana": "",
+    "latitude": 37.09217,
+    "longitude": 139.45612,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.takahata-ski.net/"
+  },
+  {
+    "id": "ski_0026",
+    "name": "会津高原たかつえスキー場",
+    "kana": "",
+    "latitude": 37.11564,
+    "longitude": 139.63217,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.takatsue.jp/"
+  },
+  {
+    "id": "ski_0042",
+    "name": "会津高原だいくらスキー場",
+    "kana": "",
+    "latitude": 37.17878,
+    "longitude": 139.63061,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://daikura.net/"
+  },
+  {
+    "id": "ski_0324",
+    "name": "但馬牧場公園スキー場",
+    "kana": "",
+    "latitude": 35.51553,
+    "longitude": 134.49163,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0403",
+    "name": "佐呂間町営スキー場",
+    "kana": "",
+    "latitude": 44.00823,
+    "longitude": 143.75246,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0394",
+    "name": "佐渡市平スキー場",
+    "kana": "",
+    "latitude": 38.07673,
+    "longitude": 138.3514,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0380",
+    "name": "何家沟滑雪场",
+    "kana": "",
+    "latitude": 40.19895,
+    "longitude": 122.2332,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0252",
+    "name": "余呉高原スキー場",
+    "kana": "",
+    "latitude": 35.69696,
+    "longitude": 136.15389,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0277",
+    "name": "信州松本 野麦峠スキー場",
+    "kana": "",
+    "latitude": 36.04686,
+    "longitude": 137.7228,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0092",
+    "name": "八千穂高原スキー場",
+    "kana": "",
+    "latitude": 36.06879,
+    "longitude": 138.37562,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://yachiho-kogen.jp/ski/"
+  },
+  {
+    "id": "ski_0216",
+    "name": "八幡平リゾート",
+    "kana": "",
+    "latitude": 39.89708,
+    "longitude": 140.94438,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.hachimantai.co.jp"
+  },
+  {
+    "id": "ski_0286",
+    "name": "八幡平リゾート パノラマスキー場",
+    "kana": "",
+    "latitude": 39.88387,
+    "longitude": 140.97774,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0249",
+    "name": "八幡平市田山スキー場",
+    "kana": "",
+    "latitude": 40.13103,
+    "longitude": 140.9497,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.city.hachimantai.lg.jp/soshiki/shisho-a/2021.html"
+  },
+  {
+    "id": "ski_0448",
+    "name": "八森山スキー場",
+    "kana": "",
+    "latitude": 38.68495,
+    "longitude": 139.6625,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0106",
+    "name": "八海山スキー場",
+    "kana": "",
+    "latitude": 37.11634,
+    "longitude": 138.98479,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0223",
+    "name": "八海山山麓スキー場",
+    "kana": "",
+    "latitude": 37.15835,
+    "longitude": 138.97581,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0451",
+    "name": "八甲田国際スキー場",
+    "kana": "",
+    "latitude": 40.67813,
+    "longitude": 140.83525,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0346",
+    "name": "八雲町営スキー場",
+    "kana": "",
+    "latitude": 42.21289,
+    "longitude": 140.23374,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0148",
+    "name": "冬鳥越スキーガーデン",
+    "kana": "",
+    "latitude": 37.64139,
+    "longitude": 139.11862,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0376",
+    "name": "函館七飯スノーパーク",
+    "kana": "",
+    "latitude": 41.97314,
+    "longitude": 140.75708,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0133",
+    "name": "北山滑雪场",
+    "kana": "",
+    "latitude": 43.84303,
+    "longitude": 126.52027,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0210",
+    "name": "北志賀小丸山スキー場",
+    "kana": "",
+    "latitude": 36.79332,
+    "longitude": 138.45594,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0105",
+    "name": "北海道グリーンランド ホワイトパーク",
+    "kana": "",
+    "latitude": 43.16856,
+    "longitude": 141.78628,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0143",
+    "name": "北秋田市営松森スキー場",
+    "kana": "",
+    "latitude": 39.90207,
+    "longitude": 140.45004,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.city.kitaakita.akita.jp/archive/p12445"
+  },
+  {
+    "id": "ski_0454",
+    "name": "北竜町営スキー場",
+    "kana": "",
+    "latitude": 43.76435,
+    "longitude": 141.85117,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0404",
+    "name": "北見市留辺蘂町八方台スキー場",
+    "kana": "",
+    "latitude": 43.76793,
+    "longitude": 143.61108,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0367",
+    "name": "北見若松市民スキー場",
+    "kana": "",
+    "latitude": 43.75175,
+    "longitude": 143.92234,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://kitamikousya.jp/wakamatsuski/"
+  },
+  {
+    "id": "ski_0158",
+    "name": "十勝サホロリゾート",
+    "kana": "",
+    "latitude": 43.17606,
+    "longitude": 142.79575,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0264",
+    "name": "十種ヶ峰スキー場",
+    "kana": "",
+    "latitude": 34.44664,
+    "longitude": 131.69508,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0368",
+    "name": "千山滑雪场",
+    "kana": "",
+    "latitude": 41.05745,
+    "longitude": 123.11599,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0431",
+    "name": "千歳市民スキー場",
+    "kana": "",
+    "latitude": 42.80225,
+    "longitude": 141.61589,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0250",
+    "name": "南郷スキー場",
+    "kana": "",
+    "latitude": 37.2605,
+    "longitude": 139.55758,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0014",
+    "name": "厚沢部町民スキー場（太鼓山スキー場）",
+    "kana": "",
+    "latitude": 41.92207,
+    "longitude": 140.23521,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0281",
+    "name": "古志高原スキー場",
+    "kana": "",
+    "latitude": 37.31616,
+    "longitude": 138.88497,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0220",
+    "name": "吉华长寿山滑雪场",
+    "kana": "",
+    "latitude": 45.61701,
+    "longitude": 127.24786,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0356",
+    "name": "吉林北山四季越野滑雪场",
+    "kana": "",
+    "latitude": 43.83739,
+    "longitude": 126.52014,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0351",
+    "name": "吉雪滑雪场",
+    "kana": "",
+    "latitude": 43.84319,
+    "longitude": 126.33317,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0354",
+    "name": "名寄市ピヤシリシャンツェ",
+    "kana": "",
+    "latitude": 44.3984,
+    "longitude": 142.51089,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.city.nayoro.lg.jp/section/sportscamp/vdh2d10000008h2b.html"
+  },
+  {
+    "id": "ski_0021",
+    "name": "和寒東山スキー場",
+    "kana": "",
+    "latitude": 44.03682,
+    "longitude": 142.41748,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0029",
+    "name": "喜多方市三ノ倉スキー場",
+    "kana": "",
+    "latitude": 37.74996,
+    "longitude": 139.86656,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0439",
+    "name": "嘉瀬スキー場",
+    "kana": "",
+    "latitude": 40.88202,
+    "longitude": 140.47831,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://gosho-taikyo.org/shisetsu/kaseski/"
+  },
+  {
+    "id": "ski_0160",
+    "name": "国設南ふらのスキー場",
+    "kana": "",
+    "latitude": 43.15678,
+    "longitude": 142.55095,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0473",
+    "name": "夜越山スキー場",
+    "kana": "",
+    "latitude": 40.91975,
+    "longitude": 140.98476,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://start-yogoshiyama.purea-web.net/ski.html"
+  },
+  {
+    "id": "ski_0140",
+    "name": "大仙市営協和スキー場",
+    "kana": "",
+    "latitude": 39.67702,
+    "longitude": 140.40067,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0305",
+    "name": "大倉岳高原スキー場",
+    "kana": "",
+    "latitude": 36.27931,
+    "longitude": 136.53852,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0435",
+    "name": "大山ますみず高原スノーパーク",
+    "kana": "",
+    "latitude": 35.36961,
+    "longitude": 133.51773,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0262",
+    "name": "大曲ファミリースキー場",
+    "kana": "",
+    "latitude": 39.4417,
+    "longitude": 140.4303,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0389",
+    "name": "大连安波温泉滑雪场",
+    "kana": "",
+    "latitude": 39.81121,
+    "longitude": 122.27871,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0437",
+    "name": "大雪山層雲峡黒岳スキー場",
+    "kana": "",
+    "latitude": 43.70642,
+    "longitude": 142.93274,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0290",
+    "name": "大鰐温泉スキー場 国際エリア",
+    "kana": "",
+    "latitude": 40.50173,
+    "longitude": 140.57135,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0343",
+    "name": "天下森スキー場",
+    "kana": "",
+    "latitude": 39.15904,
+    "longitude": 140.61853,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.tengamori.jp/ski"
+  },
+  {
+    "id": "ski_0071",
+    "name": "天元台高原",
+    "kana": "",
+    "latitude": 37.76654,
+    "longitude": 140.138,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.tengendai.jp/"
+  },
+  {
+    "id": "ski_0374",
+    "name": "天塩町町民スキー場",
+    "kana": "",
+    "latitude": 44.90393,
+    "longitude": 141.8302,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0381",
+    "name": "天定山滑雪场",
+    "kana": "",
+    "latitude": 43.87982,
+    "longitude": 125.59707,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0126",
+    "name": "天山スキー場",
+    "kana": "",
+    "latitude": 33.34956,
+    "longitude": 130.14475,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0387",
+    "name": "天恒山冰雪运动大世界",
+    "kana": "",
+    "latitude": 45.80242,
+    "longitude": 126.79096,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0360",
+    "name": "天桥沟滑雪场",
+    "kana": "",
+    "latitude": 41.04978,
+    "longitude": 124.62061,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0476",
+    "name": "太平山スキー場　オーパス",
+    "kana": "",
+    "latitude": 39.78816,
+    "longitude": 140.22996,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0341",
+    "name": "奥中山高原スキー場",
+    "kana": "",
+    "latitude": 40.08611,
+    "longitude": 141.18213,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0102",
+    "name": "奥利根スノーパーク",
+    "kana": "",
+    "latitude": 36.79762,
+    "longitude": 139.01035,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0013",
+    "name": "奥只見丸山スキー場",
+    "kana": "",
+    "latitude": 37.15952,
+    "longitude": 139.23732,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0297",
+    "name": "奥大山スキー場",
+    "kana": "",
+    "latitude": 35.34408,
+    "longitude": 133.55924,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0177",
+    "name": "奥志賀高原スキー場",
+    "kana": "",
+    "latitude": 36.77086,
+    "longitude": 138.52282,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0265",
+    "name": "女鹿平温泉めがひらスキー場",
+    "kana": "",
+    "latitude": 34.4968,
+    "longitude": 132.13481,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0169",
+    "name": "妙高杉ノ原スキー場",
+    "kana": "",
+    "latitude": 36.86346,
+    "longitude": 138.13715,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0391",
+    "name": "威海地中海滑雪场",
+    "kana": "",
+    "latitude": 37.35746,
+    "longitude": 122.14383,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0390",
+    "name": "威海威虎山滑雪场",
+    "kana": "",
+    "latitude": 37.38367,
+    "longitude": 122.11019,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0227",
+    "name": "安平山 スキー場",
+    "kana": "",
+    "latitude": 42.86438,
+    "longitude": 141.79497,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0244",
+    "name": "安比高原スキー場",
+    "kana": "",
+    "latitude": 39.9872,
+    "longitude": 140.96734,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0421",
+    "name": "安蔵公園スキー場",
+    "kana": "",
+    "latitude": 35.40436,
+    "longitude": 134.06488,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0149",
+    "name": "宝台樹スキー場",
+    "kana": "",
+    "latitude": 36.83142,
+    "longitude": 139.08303,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://hodaigi.jp/"
+  },
+  {
+    "id": "ski_0399",
+    "name": "室蘭市だんパラスキー場",
+    "kana": "",
+    "latitude": 42.41759,
+    "longitude": 141.00364,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0319",
+    "name": "富士見スキー場",
+    "kana": "",
+    "latitude": 45.30543,
+    "longitude": 141.04395,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0209",
+    "name": "富士見パノラマリゾート",
+    "kana": "",
+    "latitude": 35.90919,
+    "longitude": 138.19556,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0053",
+    "name": "富士見高原スキー場",
+    "kana": "",
+    "latitude": 35.91956,
+    "longitude": 138.30968,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://fujimikogen-ski.jp/"
+  },
+  {
+    "id": "ski_0104",
+    "name": "富良野スキー場",
+    "kana": "",
+    "latitude": 43.33267,
+    "longitude": 142.33937,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0130",
+    "name": "寿都町民スキー場",
+    "kana": "",
+    "latitude": 42.79327,
+    "longitude": 140.21985,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0279",
+    "name": "小出スキー場",
+    "kana": "",
+    "latitude": 37.22701,
+    "longitude": 138.95063,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0236",
+    "name": "小樽天狗山スキー場",
+    "kana": "",
+    "latitude": 43.1736,
+    "longitude": 140.97128,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0470",
+    "name": "小清水町民スキー場",
+    "kana": "",
+    "latitude": 43.85742,
+    "longitude": 144.4552,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0084",
+    "name": "小野川温泉スキー場",
+    "kana": "",
+    "latitude": 37.87834,
+    "longitude": 140.06087,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://npo-onogawa.org/"
+  },
+  {
+    "id": "ski_0027",
+    "name": "尾瀬檜枝岐温泉スキー場",
+    "kana": "",
+    "latitude": 37.03179,
+    "longitude": 139.39819,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0392",
+    "name": "山泰生态园滑雪场",
+    "kana": "",
+    "latitude": 37.10433,
+    "longitude": 122.04173,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0459",
+    "name": "岩内",
+    "kana": "",
+    "latitude": 42.93905,
+    "longitude": 140.51347,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0122",
+    "name": "岩原スキー場",
+    "kana": "",
+    "latitude": 36.94385,
+    "longitude": 138.84216,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.iwa-ppara.com/"
+  },
+  {
+    "id": "ski_0285",
+    "name": "岩手高原スノーパーク",
+    "kana": "",
+    "latitude": 39.82271,
+    "longitude": 140.96515,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0342",
+    "name": "岩木山百沢スキー場",
+    "kana": "",
+    "latitude": 40.63485,
+    "longitude": 140.32669,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0348",
+    "name": "峰の原高原スキー場",
+    "kana": "",
+    "latitude": 36.55861,
+    "longitude": 138.35411,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0056",
+    "name": "川場スキー場",
+    "kana": "",
+    "latitude": 36.77781,
+    "longitude": 139.11532,
+    "elevation_top_m": 1870,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.kawaba.co.jp/snow/"
+  },
+  {
+    "id": "ski_0466",
+    "name": "川西町営小松スキー場",
+    "kana": "",
+    "latitude": 37.99964,
+    "longitude": 140.02941,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0446",
+    "name": "巾山スキー場",
+    "kana": "",
+    "latitude": 39.22187,
+    "longitude": 140.01737,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0132",
+    "name": "市営大山スキー場",
+    "kana": "",
+    "latitude": 44.34604,
+    "longitude": 143.3304,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0219",
+    "name": "帽儿山滑雪场",
+    "kana": "",
+    "latitude": 45.25066,
+    "longitude": 127.44439,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0327",
+    "name": "平湯温泉スキー場",
+    "kana": "",
+    "latitude": 36.18487,
+    "longitude": 137.55939,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0353",
+    "name": "庙香山滑雪场",
+    "kana": "",
+    "latitude": 43.95485,
+    "longitude": 125.88475,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0400",
+    "name": "弁景温泉オロフレスキー場",
+    "kana": "",
+    "latitude": 42.55538,
+    "longitude": 140.98351,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0362",
+    "name": "弓长岭滑雪场",
+    "kana": "",
+    "latitude": 41.12983,
+    "longitude": 123.41704,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0089",
+    "name": "当麻スキー場",
+    "kana": "",
+    "latitude": 43.8365,
+    "longitude": 142.53617,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0141",
+    "name": "後三年スキー場",
+    "kana": "",
+    "latitude": 39.36083,
+    "longitude": 140.5476,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.town.misato.akita.jp/ski/1171.html"
+  },
+  {
+    "id": "ski_0444",
+    "name": "御在所スキー場",
+    "kana": "",
+    "latitude": 35.02035,
+    "longitude": 136.42196,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.gozaisho.co.jp/ski/"
+  },
+  {
+    "id": "ski_0185",
+    "name": "志賀高原 サンバレースキー場",
+    "kana": "",
+    "latitude": 36.71483,
+    "longitude": 138.48574,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0188",
+    "name": "志賀高原 ジャイアントスキー場",
+    "kana": "",
+    "latitude": 36.71653,
+    "longitude": 138.49515,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0182",
+    "name": "志賀高原 タンネの森 オコジョスキー場",
+    "kana": "",
+    "latitude": 36.73302,
+    "longitude": 138.51528,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0180",
+    "name": "志賀高原 一の瀬ダイヤモンドスキー場",
+    "kana": "",
+    "latitude": 36.73936,
+    "longitude": 138.50986,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0181",
+    "name": "志賀高原 一の瀬ファミリースキー場",
+    "kana": "",
+    "latitude": 36.73618,
+    "longitude": 138.52022,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0179",
+    "name": "志賀高原 一の瀬山の神スキー場",
+    "kana": "",
+    "latitude": 36.74339,
+    "longitude": 138.50979,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0186",
+    "name": "志賀高原 丸池スキー場",
+    "kana": "",
+    "latitude": 36.71497,
+    "longitude": 138.48923,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0191",
+    "name": "志賀高原 寺小屋スキー場",
+    "kana": "",
+    "latitude": 36.73,
+    "longitude": 138.5263,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0190",
+    "name": "志賀高原 東館山スキー場",
+    "kana": "",
+    "latitude": 36.72656,
+    "longitude": 138.51628,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0193",
+    "name": "志賀高原 横手山スキー場",
+    "kana": "",
+    "latitude": 36.67568,
+    "longitude": 138.51267,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0194",
+    "name": "志賀高原 渋峠スキー場",
+    "kana": "",
+    "latitude": 36.6696,
+    "longitude": 138.52952,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0178",
+    "name": "志賀高原 焼額山スキー場",
+    "kana": "",
+    "latitude": 36.7526,
+    "longitude": 138.51977,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0192",
+    "name": "志賀高原 熊の湯スキー場",
+    "kana": "",
+    "latitude": 36.67807,
+    "longitude": 138.49737,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0189",
+    "name": "志賀高原 発哺ブナ平スキー場",
+    "kana": "",
+    "latitude": 36.72196,
+    "longitude": 138.50375,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0187",
+    "name": "志賀高原 蓮池スキー場",
+    "kana": "",
+    "latitude": 36.71403,
+    "longitude": 138.49204,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0184",
+    "name": "志賀高原 西館山スキー場",
+    "kana": "",
+    "latitude": 36.72747,
+    "longitude": 138.50196,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0183",
+    "name": "志賀高原 高天ヶ原マンモススキー場",
+    "kana": "",
+    "latitude": 36.73045,
+    "longitude": 138.5148,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0266",
+    "name": "恐羅漢スノーパーク",
+    "kana": "",
+    "latitude": 34.59731,
+    "longitude": 132.13894,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0103",
+    "name": "恵庭市民スキー場",
+    "kana": "",
+    "latitude": 42.84562,
+    "longitude": 141.48859,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0254",
+    "name": "戸狩温泉スキー場",
+    "kana": "",
+    "latitude": 36.94003,
+    "longitude": 138.38047,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0166",
+    "name": "戸隠スキー場",
+    "kana": "",
+    "latitude": 36.74791,
+    "longitude": 138.10521,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0086",
+    "name": "手ノ子スキー場",
+    "kana": "",
+    "latitude": 38.00778,
+    "longitude": 139.97276,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.town.iide.yamagata.jp/007/tenoko_ski_eigyou.html"
+  },
+  {
+    "id": "ski_0218",
+    "name": "斑尾高原スキー場",
+    "kana": "",
+    "latitude": 36.84843,
+    "longitude": 138.28038,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0159",
+    "name": "新得山スキー場",
+    "kana": "",
+    "latitude": 43.09105,
+    "longitude": 142.82669,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0338",
+    "name": "日光湯元温泉スキー場",
+    "kana": "",
+    "latitude": 36.80454,
+    "longitude": 139.41256,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0161",
+    "name": "日高国際",
+    "kana": "",
+    "latitude": 42.86402,
+    "longitude": 142.45693,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0230",
+    "name": "旭ケ丘スキー場",
+    "kana": "",
+    "latitude": 42.90081,
+    "longitude": 140.73346,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0229",
+    "name": "旭岳",
+    "kana": "",
+    "latitude": 43.65647,
+    "longitude": 142.8127,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0415",
+    "name": "明野ヶ丘スキー場",
+    "kana": "",
+    "latitude": 42.89567,
+    "longitude": 143.3714,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0037",
+    "name": "星野リゾート 猫魔スキー場",
+    "kana": "",
+    "latitude": 37.60511,
+    "longitude": 140.03709,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": true
+    },
+    "url": "https://www.nekoma.co.jp/"
+  },
+  {
+    "id": "ski_0409",
+    "name": "暑寒別岳スキー場",
+    "kana": "",
+    "latitude": 43.80722,
+    "longitude": 141.53465,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0246",
+    "name": "月山スキー場",
+    "kana": "",
+    "latitude": 38.52805,
+    "longitude": 140.00848,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0427",
+    "name": "望洋台スキー場",
+    "kana": "",
+    "latitude": 44.02644,
+    "longitude": 141.67655,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0231",
+    "name": "朝里川温泉スキー場",
+    "kana": "",
+    "latitude": 43.13832,
+    "longitude": 141.02613,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0003",
+    "name": "木曽福島スキー場",
+    "kana": "",
+    "latitude": 35.94808,
+    "longitude": 137.67626,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0115",
+    "name": "札幌国際スキー場",
+    "kana": "",
+    "latitude": 43.07301,
+    "longitude": 141.07035,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0060",
+    "name": "札幌藻岩山スキー場",
+    "kana": "",
+    "latitude": 43.01555,
+    "longitude": 141.32707,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0483",
+    "name": "朽木スキー場",
+    "kana": "",
+    "latitude": 35.3276,
+    "longitude": 135.93961,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0373",
+    "name": "東ヶ丘スキー場",
+    "kana": "",
+    "latitude": 45.0201,
+    "longitude": 141.85491,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0455",
+    "name": "東藻琴白かば台スキー場",
+    "kana": "",
+    "latitude": 43.8236,
+    "longitude": 144.30312,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0345",
+    "name": "松花湖滑雪场",
+    "kana": "",
+    "latitude": 43.67354,
+    "longitude": 126.61394,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0396",
+    "name": "枝幸町三笠山スキー場",
+    "kana": "",
+    "latitude": 44.93544,
+    "longitude": 142.56358,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0043",
+    "name": "柳津温泉スキー場",
+    "kana": "",
+    "latitude": 37.53855,
+    "longitude": 139.71319,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0138",
+    "name": "栂池高原",
+    "kana": "",
+    "latitude": 36.75523,
+    "longitude": 137.85074,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0340",
+    "name": "栗子国際スキー場",
+    "kana": "",
+    "latitude": 37.82662,
+    "longitude": 140.25833,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0465",
+    "name": "桂沢国設スキー場",
+    "kana": "",
+    "latitude": 43.2489,
+    "longitude": 141.97919,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0401",
+    "name": "桜ヶ丘スキー場",
+    "kana": "",
+    "latitude": 44.18936,
+    "longitude": 143.10469,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0378",
+    "name": "梦都美滑雪场",
+    "kana": "",
+    "latitude": 43.03413,
+    "longitude": 129.58673,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0364",
+    "name": "棋盘山冰雪大世界",
+    "kana": "",
+    "latitude": 41.93559,
+    "longitude": 123.6891,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0289",
+    "name": "森吉山阿仁スキー場",
+    "kana": "",
+    "latitude": 39.96543,
+    "longitude": 140.50638,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0044",
+    "name": "横向温泉スキー場",
+    "kana": "",
+    "latitude": 37.65972,
+    "longitude": 140.25777,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0085",
+    "name": "横根スキー場",
+    "kana": "",
+    "latitude": 38.07031,
+    "longitude": 139.72764,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.siroimori.co.jp/"
+  },
+  {
+    "id": "ski_0385",
+    "name": "横道滑雪场",
+    "kana": "",
+    "latitude": 44.77247,
+    "longitude": 129.11825,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0002",
+    "name": "武尊スキー場",
+    "kana": "",
+    "latitude": 36.80253,
+    "longitude": 139.1909,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://k-hotaka.jp/ogna/"
+  },
+  {
+    "id": "ski_0412",
+    "name": "母袋温泉スキー場",
+    "kana": "",
+    "latitude": 35.86598,
+    "longitude": 136.95493,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.outdoor-in-motai.com/"
+  },
+  {
+    "id": "ski_0100",
+    "name": "水上高原スキーリゾート",
+    "kana": "",
+    "latitude": 36.85778,
+    "longitude": 139.07987,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0320",
+    "name": "氷ノ山国際スキー場",
+    "kana": "",
+    "latitude": 35.36406,
+    "longitude": 134.52845,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0475",
+    "name": "池の平スノーパーク",
+    "kana": "",
+    "latitude": 36.10896,
+    "longitude": 138.24423,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.shirakabaresort.jp/snowpark/"
+  },
+  {
+    "id": "ski_0170",
+    "name": "池の平温泉アルペンブリックスキー場",
+    "kana": "",
+    "latitude": 36.87355,
+    "longitude": 138.15553,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0057",
+    "name": "治部坂高原スキー場",
+    "kana": "",
+    "latitude": 35.35163,
+    "longitude": 137.67531,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0035",
+    "name": "沼尻スキー場",
+    "kana": "",
+    "latitude": 37.62294,
+    "longitude": 140.23763,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0078",
+    "name": "泉ヶ岳スキー場",
+    "kana": "",
+    "latitude": 38.39406,
+    "longitude": 140.71959,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.izumigatake.net/"
+  },
+  {
+    "id": "ski_0298",
+    "name": "津黒高原スキー場",
+    "kana": "",
+    "latitude": 35.2567,
+    "longitude": 133.79739,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0203",
+    "name": "湯沢パークスキー場",
+    "kana": "",
+    "latitude": 36.9242,
+    "longitude": 138.85946,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0120",
+    "name": "湯沢中里スキーリゾート",
+    "kana": "",
+    "latitude": 36.91174,
+    "longitude": 138.85467,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.yuzawa-nakazato.com/winter/"
+  },
+  {
+    "id": "ski_0199",
+    "name": "湯沢高原スキー場",
+    "kana": "",
+    "latitude": 36.9331,
+    "longitude": 138.79382,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0474",
+    "name": "滑雪场",
+    "kana": "",
+    "latitude": 43.71811,
+    "longitude": 126.53503,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0129",
+    "name": "潮見台シャンツェ小樽スキージャンプ台",
+    "kana": "",
+    "latitude": 43.17563,
+    "longitude": 141.01114,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0047",
+    "name": "爺ガ岳スキー場",
+    "kana": "",
+    "latitude": 36.5604,
+    "longitude": 137.7983,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0384",
+    "name": "牡丹峰滑雪场",
+    "kana": "",
+    "latitude": 44.46077,
+    "longitude": 129.74318,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0215",
+    "name": "牧の入高原スノーパーク",
+    "kana": "",
+    "latitude": 36.81411,
+    "longitude": 138.39751,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0355",
+    "name": "猪苗代シャンツェ",
+    "kana": "",
+    "latitude": 37.61116,
+    "longitude": 140.2046,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0039",
+    "name": "猪苗代スキー場",
+    "kana": "",
+    "latitude": 37.58174,
+    "longitude": 140.0908,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.inawashiro-ski.com/"
+  },
+  {
+    "id": "ski_0295",
+    "name": "猫山スキー場",
+    "kana": "",
+    "latitude": 35.03731,
+    "longitude": 133.1997,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0370",
+    "name": "猿払村役場 猿払村営スキー場",
+    "kana": "",
+    "latitude": 45.33611,
+    "longitude": 142.10562,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0294",
+    "name": "琴引フォレストパークスキー場",
+    "kana": "",
+    "latitude": 35.05191,
+    "longitude": 132.7716,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0315",
+    "name": "瑞穂ハイランド",
+    "kana": "",
+    "latitude": 34.79782,
+    "longitude": 132.39116,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0125",
+    "name": "田代エリア",
+    "kana": "",
+    "latitude": 36.84874,
+    "longitude": 138.73537,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0131",
+    "name": "田子町創遊村229スキーランド",
+    "kana": "",
+    "latitude": 40.3641,
+    "longitude": 141.06597,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0009",
+    "name": "町営只見スキー場",
+    "kana": "",
+    "latitude": 37.34785,
+    "longitude": 139.30743,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0432",
+    "name": "町営湯田スキー場",
+    "kana": "",
+    "latitude": 39.33979,
+    "longitude": 140.78746,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0325",
+    "name": "白山セイモアスキー場",
+    "kana": "",
+    "latitude": 36.34142,
+    "longitude": 136.68641,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0306",
+    "name": "白山一里野温泉スキー場",
+    "kana": "",
+    "latitude": 36.26236,
+    "longitude": 136.71024,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0358",
+    "name": "白山大镜沟滑雪场（规划）",
+    "kana": "",
+    "latitude": 41.836,
+    "longitude": 126.55588,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0111",
+    "name": "白樺2in1スキー場",
+    "kana": "",
+    "latitude": 36.0951,
+    "longitude": 138.25981,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "2in1.jp"
+  },
+  {
+    "id": "ski_0112",
+    "name": "白樺湖ロイヤルヒルスキー場",
+    "kana": "",
+    "latitude": 36.09672,
+    "longitude": 138.23926,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://royalhill.co.jp/"
+  },
+  {
+    "id": "ski_0113",
+    "name": "白樺高原国際スキー場",
+    "kana": "",
+    "latitude": 36.12731,
+    "longitude": 138.27947,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://shirakaba-ski.jp/"
+  },
+  {
+    "id": "ski_0452",
+    "name": "白銀台スキー場",
+    "kana": "",
+    "latitude": 42.56091,
+    "longitude": 143.3116,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0135",
+    "name": "白馬47",
+    "kana": "",
+    "latitude": 36.67218,
+    "longitude": 137.82166,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.hakuba47.co.jp"
+  },
+  {
+    "id": "ski_0164",
+    "name": "白馬さのさか",
+    "kana": "",
+    "latitude": 36.62299,
+    "longitude": 137.83652,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0137",
+    "name": "白馬コルチナ",
+    "kana": "",
+    "latitude": 36.77873,
+    "longitude": 137.88186,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0094",
+    "name": "白馬乗鞍スキー場",
+    "kana": "",
+    "latitude": 36.76953,
+    "longitude": 137.8704,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0134",
+    "name": "白馬五竜",
+    "kana": "",
+    "latitude": 36.66451,
+    "longitude": 137.82522,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0136",
+    "name": "白馬八方尾根",
+    "kana": "",
+    "latitude": 36.70369,
+    "longitude": 137.81895,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0139",
+    "name": "白馬白馬岩岳",
+    "kana": "",
+    "latitude": 36.72437,
+    "longitude": 137.84539,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0145",
+    "name": "県民の森スキー場",
+    "kana": "",
+    "latitude": 35.06766,
+    "longitude": 133.06746,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0066",
+    "name": "石打丸山スキー場",
+    "kana": "",
+    "latitude": 36.97073,
+    "longitude": 138.79221,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0061",
+    "name": "石打花岡スキー場",
+    "kana": "",
+    "latitude": 36.98988,
+    "longitude": 138.79533,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0458",
+    "name": "石狩平原スキー場",
+    "kana": "",
+    "latitude": 43.26216,
+    "longitude": 141.5048,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0234",
+    "name": "石鎚スキー場ピクニック園地",
+    "kana": "",
+    "latitude": 33.7949,
+    "longitude": 133.12966,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0442",
+    "name": "祇園山スキー場",
+    "kana": "",
+    "latitude": 39.13733,
+    "longitude": 140.30859,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0202",
+    "name": "神立高原スキー場",
+    "kana": "",
+    "latitude": 36.90325,
+    "longitude": 138.80977,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0386",
+    "name": "神鹿滑雪场",
+    "kana": "",
+    "latitude": 45.3073,
+    "longitude": 127.35797,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0273",
+    "name": "福井和泉スキー場",
+    "kana": "",
+    "latitude": 35.93708,
+    "longitude": 136.68601,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0418",
+    "name": "秋山スキー場",
+    "kana": "",
+    "latitude": 38.86677,
+    "longitude": 140.24028,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0417",
+    "name": "秋田八幡平スキー場",
+    "kana": "",
+    "latitude": 39.97708,
+    "longitude": 140.80743,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0416",
+    "name": "稲川スキー場スベロッタ",
+    "kana": "",
+    "latitude": 39.16487,
+    "longitude": 140.54043,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0406",
+    "name": "積丹町野外スポーツ林スキー場",
+    "kana": "",
+    "latitude": 43.29169,
+    "longitude": 140.60405,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0330",
+    "name": "立山山麓スキー場",
+    "kana": "",
+    "latitude": 36.56818,
+    "longitude": 137.42517,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0211",
+    "name": "竜王スキーパーク",
+    "kana": "",
+    "latitude": 36.77898,
+    "longitude": 138.47176,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0045",
+    "name": "箕輪スキー場",
+    "kana": "",
+    "latitude": 37.65108,
+    "longitude": 140.26033,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0301",
+    "name": "箱館山スキー場",
+    "kana": "",
+    "latitude": 35.43862,
+    "longitude": 135.98473,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0083",
+    "name": "米沢スキー場",
+    "kana": "",
+    "latitude": 37.8659,
+    "longitude": 140.23779,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.yonezawa-ski.co.jp/"
+  },
+  {
+    "id": "ski_0046",
+    "name": "糸魚川シーサイドバレースキー場",
+    "kana": "",
+    "latitude": 36.93144,
+    "longitude": 137.89097,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.seasidevalley.com/"
+  },
+  {
+    "id": "ski_0388",
+    "name": "紫花岭滑雪场",
+    "kana": "",
+    "latitude": 41.73624,
+    "longitude": 124.1254,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0118",
+    "name": "網張温泉スキー場",
+    "kana": "",
+    "latitude": 39.82783,
+    "longitude": 140.93505,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://qkamura.or.jp/iwate/ski/"
+  },
+  {
+    "id": "ski_0063",
+    "name": "網走レイクビュースキー場",
+    "kana": "",
+    "latitude": 43.98815,
+    "longitude": 144.22991,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0383",
+    "name": "红松王滑雪场",
+    "kana": "",
+    "latitude": 42.21151,
+    "longitude": 128.19157,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0405",
+    "name": "置戸町南ヶ丘スキー場",
+    "kana": "",
+    "latitude": 43.67608,
+    "longitude": 143.59912,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0426",
+    "name": "美唄国設スキー場",
+    "kana": "",
+    "latitude": 43.31965,
+    "longitude": 141.94733,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0366",
+    "name": "美幌町リリー山スキー場",
+    "kana": "",
+    "latitude": 43.84277,
+    "longitude": 144.09033,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.town.bihoro.hokkaido.jp/"
+  },
+  {
+    "id": "ski_0397",
+    "name": "美深スキー場",
+    "kana": "",
+    "latitude": 44.48901,
+    "longitude": 142.36059,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0447",
+    "name": "羽幌町民スキー場",
+    "kana": "",
+    "latitude": 44.31796,
+    "longitude": 141.78629,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0450",
+    "name": "羽黒山スキー場",
+    "kana": "",
+    "latitude": 38.69525,
+    "longitude": 139.98796,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0176",
+    "name": "聖高原スキー場",
+    "kana": "",
+    "latitude": 36.48701,
+    "longitude": 138.07297,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0363",
+    "name": "聚隆滑雪度假区（未完工）",
+    "kana": "",
+    "latitude": 41.95541,
+    "longitude": 125.20221,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0318",
+    "name": "胎内スキー場",
+    "kana": "",
+    "latitude": 38.00273,
+    "longitude": 139.50416,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0119",
+    "name": "舞子スノーリゾート",
+    "kana": "",
+    "latitude": 36.97442,
+    "longitude": 138.83576,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.maiko-resort.com/winter/"
+  },
+  {
+    "id": "ski_0440",
+    "name": "船見台スキー場",
+    "kana": "",
+    "latitude": 42.58712,
+    "longitude": 140.72786,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0453",
+    "name": "花笠高原スキー場",
+    "kana": "",
+    "latitude": 38.53211,
+    "longitude": 140.50946,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0288",
+    "name": "花輪スキー場",
+    "kana": "",
+    "latitude": 40.18288,
+    "longitude": 140.82732,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0293",
+    "name": "芸北国際スキー場",
+    "kana": "",
+    "latitude": 34.70822,
+    "longitude": 132.22565,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0268",
+    "name": "芸北高原大佐スキー場",
+    "kana": "",
+    "latitude": 34.74637,
+    "longitude": 132.2123,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0206",
+    "name": "苗場スキー場",
+    "kana": "",
+    "latitude": 36.79391,
+    "longitude": 138.77102,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0429",
+    "name": "茶臼山高原スキー場",
+    "kana": "",
+    "latitude": 35.21763,
+    "longitude": 137.65659,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0313",
+    "name": "草津温泉スキー場",
+    "kana": "",
+    "latitude": 36.63101,
+    "longitude": 138.5748,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0471",
+    "name": "菅平高原ダボスの岡スキー場",
+    "kana": "",
+    "latitude": 36.54163,
+    "longitude": 138.35253,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0347",
+    "name": "菅平高原パインビークスキー場",
+    "kana": "",
+    "latitude": 36.52047,
+    "longitude": 138.31098,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://pinebeak.jp/"
+  },
+  {
+    "id": "ski_0472",
+    "name": "菅平高原太郎スキー場",
+    "kana": "",
+    "latitude": 36.53541,
+    "longitude": 138.33364,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0449",
+    "name": "萩の山市民スキー場",
+    "kana": "",
+    "latitude": 43.16494,
+    "longitude": 141.80972,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0310",
+    "name": "蓼科東急スキー場",
+    "kana": "",
+    "latitude": 36.06963,
+    "longitude": 138.25777,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0088",
+    "name": "蔵王ライザワールド",
+    "kana": "",
+    "latitude": 38.12399,
+    "longitude": 140.41207,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.zaoliza.co.jp/"
+  },
+  {
+    "id": "ski_0090",
+    "name": "蔵王温泉スキー場",
+    "kana": "",
+    "latitude": 38.16127,
+    "longitude": 140.40627,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.zao-ski.or.jp/"
+  },
+  {
+    "id": "ski_0087",
+    "name": "蔵王猿倉スキー場",
+    "kana": "",
+    "latitude": 38.12726,
+    "longitude": 140.37776,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.zao-sarukura.co.jp/"
+  },
+  {
+    "id": "ski_0280",
+    "name": "薬師スキー場",
+    "kana": "",
+    "latitude": 37.23323,
+    "longitude": 138.99352,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0144",
+    "name": "薬師山スキー場",
+    "kana": "",
+    "latitude": 40.21241,
+    "longitude": 140.27692,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.city.kitaakita.akita.jp/archive/contents-yakushi-583"
+  },
+  {
+    "id": "ski_0101",
+    "name": "藤原スキー場",
+    "kana": "",
+    "latitude": 36.85243,
+    "longitude": 139.06877,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://fujiwaraski.com/"
+  },
+  {
+    "id": "ski_0253",
+    "name": "藤里町営スキー場",
+    "kana": "",
+    "latitude": 40.32294,
+    "longitude": 140.29178,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0036",
+    "name": "裏磐梯スキー場",
+    "kana": "",
+    "latitude": 37.62856,
+    "longitude": 140.06868,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://urabandai-kougen.com/ski/"
+  },
+  {
+    "id": "ski_0336",
+    "name": "谷川岳天神平スキー場",
+    "kana": "",
+    "latitude": 36.82544,
+    "longitude": 138.95369,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0010",
+    "name": "豊富町温泉スキー場",
+    "kana": "",
+    "latitude": 45.07599,
+    "longitude": 141.84407,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0172",
+    "name": "赤倉温泉スキー場",
+    "kana": "",
+    "latitude": 36.89641,
+    "longitude": 138.16918,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0171",
+    "name": "赤倉観光リゾートスキー場",
+    "kana": "",
+    "latitude": 36.8902,
+    "longitude": 138.15959,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0241",
+    "name": "赤城山第１スキー",
+    "kana": "",
+    "latitude": 36.54515,
+    "longitude": 139.18301,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0419",
+    "name": "赤子山スキー場 スノーパル",
+    "kana": "",
+    "latitude": 35.54638,
+    "longitude": 136.21997,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://woodypal.jp/facility/%E8%B5%A4%E5%AD%90%E5%B1%B1%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%91%E3%83%AB/"
+  },
+  {
+    "id": "ski_0413",
+    "name": "赤沢スキー場",
+    "kana": "",
+    "latitude": 36.73106,
+    "longitude": 138.82706,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0414",
+    "name": "赤羽根スキー場",
+    "kana": "",
+    "latitude": 39.24687,
+    "longitude": 141.59407,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0108",
+    "name": "車山高原SKYPARKスキー場",
+    "kana": "",
+    "latitude": 36.10429,
+    "longitude": 138.20615,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://kurumayama.com/"
+  },
+  {
+    "id": "ski_0312",
+    "name": "軽井沢プリンスホテルスキー場",
+    "kana": "",
+    "latitude": 36.33644,
+    "longitude": 138.64343,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0296",
+    "name": "道後山観光（株）",
+    "kana": "",
+    "latitude": 35.06091,
+    "longitude": 133.20697,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0333",
+    "name": "郡上ヴァカンス村スキー場",
+    "kana": "",
+    "latitude": 35.97564,
+    "longitude": 136.94082,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0195",
+    "name": "野沢温泉スキー場",
+    "kana": "",
+    "latitude": 36.91707,
+    "longitude": 138.46904,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0328",
+    "name": "金沢市営医王山スキー場",
+    "kana": "",
+    "latitude": 36.52577,
+    "longitude": 136.7521,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0464",
+    "name": "金谷山スキー場",
+    "kana": "",
+    "latitude": 37.10352,
+    "longitude": 138.22371,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0461",
+    "name": "鏡ヶ成スキー場",
+    "kana": "",
+    "latitude": 35.34564,
+    "longitude": 133.59365,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0352",
+    "name": "铭山绿洲滑雪场",
+    "kana": "",
+    "latitude": 43.88271,
+    "longitude": 126.66047,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0093",
+    "name": "長井市道照寺平スキー場",
+    "kana": "",
+    "latitude": 38.09147,
+    "longitude": 139.97802,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0339",
+    "name": "長岡市営スキー場",
+    "kana": "",
+    "latitude": 37.41304,
+    "longitude": 138.89584,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0357",
+    "name": "长春莲花山滑雪场",
+    "kana": "",
+    "latitude": 43.8586,
+    "longitude": 125.73134,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0382",
+    "name": "长白山华美胜地滑雪场",
+    "kana": "",
+    "latitude": 41.96084,
+    "longitude": 127.51578,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0233",
+    "name": "长白山和平滑雪场",
+    "kana": "",
+    "latitude": 42.286,
+    "longitude": 128.19061,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0007",
+    "name": "開田高原マイアスキー場",
+    "kana": "",
+    "latitude": 35.92804,
+    "longitude": 137.51497,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0173",
+    "name": "関温泉スキー場",
+    "kana": "",
+    "latitude": 36.90579,
+    "longitude": 138.15721,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0248",
+    "name": "阿仁湯口内スキー場",
+    "kana": "",
+    "latitude": 40.01277,
+    "longitude": 140.39344,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.city.kitaakita.akita.jp/archive/p12444"
+  },
+  {
+    "id": "ski_0226",
+    "name": "阿寒ロイヤルバレイ",
+    "kana": "",
+    "latitude": 43.10699,
+    "longitude": 144.13584,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0284",
+    "name": "雫石スキー場",
+    "kana": "",
+    "latitude": 39.78439,
+    "longitude": 140.91777,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0117",
+    "name": "青森スプリング・スキーリゾート",
+    "kana": "",
+    "latitude": 40.68212,
+    "longitude": 140.2858,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://aomorispringski.com"
+  },
+  {
+    "id": "ski_0022",
+    "name": "音威富士スキー場",
+    "kana": "",
+    "latitude": 44.72116,
+    "longitude": 142.27762,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0282",
+    "name": "須原スキー場",
+    "kana": "",
+    "latitude": 37.32966,
+    "longitude": 139.01015,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0468",
+    "name": "風の丘公園スキー場",
+    "kana": "",
+    "latitude": 43.71944,
+    "longitude": 144.50057,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0441",
+    "name": "風連スキー場",
+    "kana": "",
+    "latitude": 44.29667,
+    "longitude": 142.34785,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0255",
+    "name": "飛騨かわいスキー場",
+    "kana": "",
+    "latitude": 36.23504,
+    "longitude": 137.07771,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0469",
+    "name": "駒ヶ根スキーリゾート",
+    "kana": "",
+    "latitude": 35.73919,
+    "longitude": 137.88668,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0326",
+    "name": "高山市営飛騨高山スキー場",
+    "kana": "",
+    "latitude": 36.14166,
+    "longitude": 137.43505,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0261",
+    "name": "高峰マウンテンパークスキー場",
+    "kana": "",
+    "latitude": 36.4084,
+    "longitude": 138.46342,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0270",
+    "name": "高鷲スノーパーク",
+    "kana": "",
+    "latitude": 36.00057,
+    "longitude": 136.86319,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0015",
+    "name": "鳥海高原矢島スキー場",
+    "kana": "",
+    "latitude": 39.1887,
+    "longitude": 140.08648,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "http://www.ybnet.jp/~ski/"
+  },
+  {
+    "id": "ski_0331",
+    "name": "鷲ヶ岳スキー場",
+    "kana": "",
+    "latitude": 35.94378,
+    "longitude": 136.93145,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0165",
+    "name": "鹿島槍スキー場",
+    "kana": "",
+    "latitude": 36.60086,
+    "longitude": 137.82921,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0467",
+    "name": "鹿沢スノーエリア",
+    "kana": "",
+    "latitude": 36.46537,
+    "longitude": 138.42735,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0232",
+    "name": "黒伏高原スノーパーク　ジャングル・ジャングル",
+    "kana": "",
+    "latitude": 38.43608,
+    "longitude": 140.54488,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0168",
+    "name": "黒姫高原スノーパーク",
+    "kana": "",
+    "latitude": 36.82502,
+    "longitude": 138.15877,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0359",
+    "name": "龙岗山滑雪场（即将开业）",
+    "kana": "",
+    "latitude": 41.62464,
+    "longitude": 125.42499,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0067",
+    "name": "곤지암스키장",
+    "kana": "",
+    "latitude": 37.33448,
+    "longitude": 127.28935,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.konjiamresort.co.kr/main.dev"
+  },
+  {
+    "id": "ski_0128",
+    "name": "눈썰매장",
+    "kana": "",
+    "latitude": 35.83794,
+    "longitude": 129.28066,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0221",
+    "name": "모글코스",
+    "kana": "",
+    "latitude": 37.48883,
+    "longitude": 128.24831,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0012",
+    "name": "베어스타운리조트 (Bears Town Resort)",
+    "kana": "",
+    "latitude": 37.79642,
+    "longitude": 127.25111,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0349",
+    "name": "비발디파크",
+    "kana": "",
+    "latitude": 37.64189,
+    "longitude": 127.6873,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0127",
+    "name": "스키썰매장",
+    "kana": "",
+    "latitude": 35.83901,
+    "longitude": 129.27997,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0052",
+    "name": "스타힐리조트",
+    "kana": "",
+    "latitude": 37.66218,
+    "longitude": 127.26599,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0091",
+    "name": "안산썰매장",
+    "kana": "",
+    "latitude": 37.31913,
+    "longitude": 126.80457,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0395",
+    "name": "알펜시아 리조트",
+    "kana": "",
+    "latitude": 37.48526,
+    "longitude": 128.2468,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0477",
+    "name": "알펜시아 스키장",
+    "kana": "",
+    "latitude": 37.65282,
+    "longitude": 128.67428,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0147",
+    "name": "양지파인리조트",
+    "kana": "",
+    "latitude": 37.21154,
+    "longitude": 127.29788,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0146",
+    "name": "에덴벨リスキー場",
+    "kana": "",
+    "latitude": 35.42563,
+    "longitude": 128.98431,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0463",
+    "name": "엘리시안 강촌",
+    "kana": "",
+    "latitude": 37.81747,
+    "longitude": 127.58782,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0142",
+    "name": "오투리조트",
+    "kana": "",
+    "latitude": 37.17359,
+    "longitude": 128.93806,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.o2resort.com/SKI/basicInfo.jsp"
+  },
+  {
+    "id": "ski_0054",
+    "name": "용평리조트",
+    "kana": "",
+    "latitude": 37.62716,
+    "longitude": 128.67706,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.yongpyong.co.kr/"
+  },
+  {
+    "id": "ski_0096",
+    "name": "정선 알파인 경기장",
+    "kana": "",
+    "latitude": 37.46164,
+    "longitude": 128.60439,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0068",
+    "name": "지산포레스트리조트",
+    "kana": "",
+    "latitude": 37.21378,
+    "longitude": 127.34307,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0222",
+    "name": "펀파크 A2",
+    "kana": "",
+    "latitude": 37.48824,
+    "longitude": 128.25262,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  },
+  {
+    "id": "ski_0001",
+    "name": "하이원스키장",
+    "kana": "",
+    "latitude": 37.19411,
+    "longitude": 128.82914,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": "https://www.high1.com/ski/index.do"
+  },
+  {
+    "id": "ski_0097",
+    "name": "휘닉스 평창",
+    "kana": "",
+    "latitude": 37.57824,
+    "longitude": 128.31781,
+    "elevation_top_m": null,
+    "features": {
+      "snowboard": true,
+      "night": false
+    },
+    "url": ""
+  }
+]
