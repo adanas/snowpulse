@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Kotlin-1.9.22-purple.svg" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg" alt="Android" />
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Tests-18%2F18%20Passed-brightgreen.svg" alt="Tests" />
+  <img src="https://img.shields.io/badge/Tests-61%2F61%20Passed-brightgreen.svg" alt="Tests" />
 </p>
 
 **SnowPulse（スノープルス）** は、スノーボーダーのための次世代滑走トラッキング＆リアルタイムコーチング Android アプリケーションです。
@@ -99,17 +99,20 @@ com.snowpulse.app/
 ```bash
 python3 run_algorithm_tests.py
 ```
-- **検証項目**: 全18項目（滑走検知、リフト乗車判定、オーリー滞空時間、180スピン角度積分、プリセットCSVシナリオ通し検証）
-- **テスト結果**: 18 / 18 Passed (合格率 100%)
+- **検証項目**: 全61項目（滑走検知、リフト乗車判定、オーリー滞空時間、180スピン角度積分、リアルタイム気象・積雪、音声アナウンス、シミュレータ、SNS共有、シーズン記録、UI連動検証等）
+- **テスト結果**: 61 / 61 Passed (合格率 100%)
 
 ---
 
 ## 📄 設計・仕様ドキュメント一覧
 
-- [要件定義書](../snowboard_app_requirements.md)
-- [基本設計・アーキテクチャ設計書](../architecture_design.md)
-- [収納位置 & モック再生テスト仕様書](../hardware_and_testing_spec.md)
-- [UI画面仕様書](../ui_wireframe_spec.md) / [インタラクティブワイヤーフレーム](../wireframe.html)
-- [単体テスト結果レポート](../test_execution_report.md)
-- [コードレビューレポート](../code_review_report.md)
+- [要件定義書](docs/snowboard_app_requirements.md)
+- [シーズンライド記録機能 要件定義書](docs/season_ride_record_requirements.md)
+- [SNSシェアカード機能 要件定義書](docs/sns_share_card_requirements.md)
+- [デバッグ＆シミュレーション機能 要件定義書](docs/debug_feature_requirements.md)
+- [基本設計・アーキテクチャ設計書](docs/architecture_design.md)
+- [収納位置 & モック再生テスト仕様書](docs/hardware_and_testing_spec.md)
+- [UI画面仕様書](docs/ui_wireframe_spec.md) / [インタラクティブワイヤーフレーム](docs/wireframe.html)
+- [単体テスト結果レポート](docs/test_execution_report.md)
+- [コードレビューレポート](docs/code_review_report.md)
 - [雪山実地テスト手順書 (Playbook)](FIELD_TEST_PLAYBOOK.md)
